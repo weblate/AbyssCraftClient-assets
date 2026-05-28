@@ -1,0 +1,19 @@
+{
+  "abysscraft.disconnect.anticheatverifyfail": "Weryfikacja Anti-cheat się nie powiodła, upewnij się że ClientGuard jest zainstalowany",
+  "abysscraft.disconnect.serverversionmismatch": "Upewnij się, że łączysz się z serwerem AbyssCraft, i zaktualizowałeś moda AbyssCraftClient.\n Server: %s Client: %s",
+  "abysscraft.inGameHud.MiningFoundOre": "Znalazłeś ukryte złoże!",
+  "abysscraft.inGameHud.MiningModeOff": "TrybKopania: Wył",
+  "abysscraft.inGameHud.MiningModeOn": "TrybKopania: Wł",
+  "abysscraft.inGameHud.OutOfBorder": "To miejsce jest przeklęte - natychmiast wróć do bezpiecznej strefy",
+  "abysscraft.inGameHud.bossBar.Stamina": "Wytrzymałość",
+  "abysscraft.inGameHud.fast_travel": "%s szybka podróż",
+  "abysscraft.inGameHud.fast_travel.description": "Dostępne tylko w dozwolonych miejscach",
+  "abysscraft.inGameHud.lagNotice": "Serwer nie odpowiada od: %.1fs",
+  "abysscraft.region.edge_of_the_abyss.description": "0-1510 bloków",
+  "abysscraft.region.edge_of_the_abyss.name": "Granica Otchłani",
+  "abysscraft.region.forest_of_temptation.description": "1510-2580 bloków",
+  "abysscraft.region.forest_of_temptation.name": "Las Pokusy",
+  "abysscraft.region.great_fault.description": "2580–4020 bloków",
+  "abysscraft.region.great_fault.name": "Wielki Uskok",
+  "abysscraft.region.orth.description": "Miasto Wielkiej Otchłani"
+}
